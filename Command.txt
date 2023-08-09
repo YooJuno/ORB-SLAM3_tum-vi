@@ -1,0 +1,9 @@
+---- 실행은 /ORB_SLAM3  기준 ----
+
+[SLAM 실행 - Webcam]
+./Examples/Monocular/mono_tum_vi ./Vocabulary/ORBvoc.txt ./fisheye.yaml 
+
+
+카메라 종류에 따른 yaml파일 필요시
+https://github.com/UZ-SLAMLab/ORB_SLAM3/tree/master/Examples/Monocular
+여기서 다운받으면 됨
