@@ -21,4 +21,4 @@ System.LoadAtlasFromFile: "test2"
 
 ### [카메라를 못불러올 때]
 
-./Examples/Monocular/mono_tum_vi.cc 에서 Webcam불러오는 32번 째 라인의 -1을 0
+./Examples/Monocular/mono_tum_vi.cc 에서 Webcam불러오는 32번 째 라인의 -1을 0 혹은 2로 바꾸면 될 수도
